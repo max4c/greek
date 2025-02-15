@@ -1,0 +1,222 @@
+adverb <> επίρρημα
+ballroom dancing <> χοροί αίθουσας
+stay up <> ξενυχτάω
+countryside <> εξοχή
+crossword <> σταυρόλεξο
+health <> υγεία
+marathon <> μαραθώνιος
+mental health <> ψυχική υγεία
+movement <> κίνηση
+physical <> σωματικός
+amount <> διάστημα
+bedtime <> ώρα ύπνου
+birth <> γέννηση
+board game <> επιτραπέζιο παιχνίδι
+exactly <> ακριβώς
+busy <> απασχολημένος
+elderly <> ηλικιωμένος
+extra <> πρόσθετος
+fall asleep <> αποκοιμιέμαι
+fewer <> λιγότερος
+find out <> ανακαλύπτω
+gardening <> κηπουρική
+hardly ever <> σχεδόν ποτέ
+middle <> μέσος
+misunderstand <> παρεξηγώ
+rare <> σπάνιος
+mood <> διάθεση
+novel <> μυθιστόρημα
+public transport <> δημόσιες συγκοινωνίες
+scientific <> επιστημονικός
+quiz <> κουίζ
+rarely <> σπάνια
+recommended <> συνιστώμενος
+traditional <> παραδοσιακός
+relax <> χαλάρωση
+routine <> ρουτίνα
+comment <> σχολιάζω
+decide <> αποφασίζω
+earn <> κερδίζω
+economy <> οικονομία
+gross <> μικτός
+level <> επίπεδο
+measure <> μετρώ
+medicine <> ιατρική
+net <> καθαρός
+pay <> πληρώνω
+poverty <> φτώχεια
+profession <> επάγγελμα
+salary <> μισθός
+skill <> δεξιότητα
+tax <> φόρος
+wage <> ημερομίσθιο
+wealth <> πλούτος
+accountant <> λογιστής
+actor <> ηθοποιός
+architect <> αρχιτέκτονας
+artist <> καλλιτέχνης
+builder <> οικοδόμος
+businessman <> επιχειρηματίας
+chef <> σεφ
+dentist <> οδοντίατρος
+designer <> σχεδιαστής
+doctor <> γιατρός
+engineer <> μηχανικός
+farmer <> αγρότης
+firefighter <> πυροσβέστης
+journalist <> δημοσιογράφος
+lawyer <> δικηγόρος
+mechanic <> μηχανικός αυτοκινήτων
+nurse <> νοσοκόμα
+pilot <> πιλότος
+police officer <> αστυνομικός
+politician <> πολιτικός
+scientist <> επιστήμονας
+secretary <> γραμματέας
+shop assistant <> πωλητής
+teacher <> δάσκαλος
+vet <> κτηνίατρος
+waiter <> σερβιτόρος
+writer <> συγγραφέας
+achievement <> επίτευγμα
+ambition <> φιλοδοξία
+career <> καριέρα
+challenge <> πρόκληση
+choice <> επιλογή
+colleague <> συνάδελφος
+company <> εταιρεία
+competition <> ανταγωνισμός
+course <> μάθημα
+deadline <> προθεσμία
+decision <> απόφαση
+degree <> πτυχίο
+duty <> καθήκον
+education <> εκπαίδευση
+employee <> υπάλληλος
+employer <> εργοδότης
+experience <> εμπειρία
+expert <> ειδικός
+goal <> στόχος
+graduate <> απόφοιτος
+job <> δουλειά
+knowledge <> γνώση
+manager <> διευθυντής
+meeting <> συνάντηση
+office <> γραφείο
+opportunity <> ευκαιρία
+promotion <> προαγωγή
+qualification <> προσόν
+responsibility <> ευθύνη
+schedule <> πρόγραμμα
+success <> επιτυχία
+task <> εργασία
+training <> εκπαίδευση
+work <> εργασία
+workplace <> χώρος εργασίας
+apply <> υποβάλλω αίτηση
+arrange <> κανονίζω
+attend <> παρακολουθώ
+choose <> επιλέγω
+complete <> ολοκληρώνω
+deal with <> χειρίζομαι
+discuss <> συζητώ
+employ <> απασχολώ
+fail <> αποτυγχάνω
+fire <> απολύω
+hire <> προσλαμβάνω
+improve <> βελτιώνω
+interview <> συνέντευξη
+learn <> μαθαίνω
+manage <> διαχειρίζομαι
+organize <> οργανώνω
+pass <> περνάω
+plan <> σχεδιάζω
+practice <> εξασκούμαι
+prepare <> προετοιμάζω
+qualify <> αποκτώ προσόντα
+resign <> παραιτούμαι
+retire <> συνταξιοδοτούμαι
+study <> μελετώ
+succeed <> επιτυγχάνω
+train <> εκπαιδεύω
+work <> εργάζομαι
+ambitious <> φιλόδοξος
+busy <> απασχολημένος
+capable <> ικανός
+confident <> σίγουρος
+creative <> δημιουργικός
+dedicated <> αφοσιωμένος
+efficient <> αποτελεσματικός
+experienced <> έμπειρος
+flexible <> ευέλικτος
+hardworking <> εργατικός
+intelligent <> έξυπνος
+motivated <> παρακινημένος
+organized <> οργανωτικός
+professional <> επαγγελματίας
+qualified <> καταρτισμένος
+reliable <> αξιόπιστος
+responsible <> υπεύθυνος
+skilled <> επιδέξιος
+successful <> επιτυχημένος
+talented <> ταλαντούχος
+accident <> ατύχημα
+advertisement <> διαφήμιση
+advice <> συμβουλή
+announcement <> ανακοίνωση
+application <> αίτηση
+appointment <> ραντεβού
+benefit <> όφελος
+bonus <> πριμ
+break <> διάλειμμα
+business <> επιχείρηση
+certificate <> πιστοποιητικό
+contract <> συμβόλαιο
+CV <> βιογραφικό
+department <> τμήμα
+desk <> γραφείο
+diploma <> δίπλωμα
+document <> έγγραφο
+email <> ηλεκτρονικό ταχυδρομείο
+equipment <> εξοπλισμός
+exam <> εξέταση
+form <> έντυπο
+interview <> συνέντευξη
+letter <> γράμμα
+license <> άδεια
+meeting <> συνάντηση
+note <> σημείωση
+notice <> ειδοποίηση
+overtime <> υπερωρία
+paper <> χαρτί
+pension <> σύνταξη
+permit <> άδεια
+position <> θέση
+project <> έργο
+reference <> συστατική επιστολή
+report <> αναφορά
+resume <> βιογραφικό
+salary <> μισθός
+shift <> βάρδια
+signature <> υπογραφή
+staff <> προσωπικό
+timetable <> ωράριο
+tool <> εργαλείο
+uniform <> στολή
+wage <> μισθός
+work permit <> άδεια εργασίας
+conservationist <> άτομο υπέρ της προστασίας της φύσης
+import <> εισαγωγή
+sheet <> φύλλο
+exist <> υπάρχω
+expose <> εκθέτω
+magnetic <> μαγνητικός
+run out <> τελειώνω
+stall <> πάγκος
+announce <> ανακοινώνω
+hide <> κρύβομαι
+toad <> φρύνος
+delight <> απόλαυση
+inform <> ενημερώνω
+point <> σημείο
+proud <> περήφανος

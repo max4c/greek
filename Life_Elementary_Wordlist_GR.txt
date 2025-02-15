@@ -1,0 +1,302 @@
+adverb <> επίρρημα
+wife <> σύζυγος
+manager <> υπεύθυνος
+aunt <> θεία
+company <> εταιρεία
+half brother <> ετεροθαλής αδερφός
+compare <> συγκρίνω
+international <> διεθνής
+nephew <> ανιψιός
+niece <> ανιψιά
+normal <> συνηθισμένος
+similar <> παρόμοιος
+uncle <> θείος
+ball <> μπάλα
+agriculture <> γεωργία
+average <> μέσος
+countryside <> ύπαιθρος
+have <> έχω
+industry <> κλάδος
+life expectancy <> προσδόκιμο ζωής
+live <> ζω
+manufacturing <> κατασκευές
+population <> πληθυσμός
+production <> παραγωγή
+religion <> θρησκεία
+use <> χρησιμοποιώ
+apartment <> διαμέρισμα
+difference <> διαφορά
+furniture <> έπιπλο
+picture <> κάδρο
+style <> στυλ
+quiet <> ήσυχος
+bonnet <> καπό
+bumper <> προφυλακτήρας
+engine <> κινητήρας
+global <> παγκόσμιος
+mirror <> καθρέφτης
+nationality <> εθνικότητα
+producer <> παραγωγός
+product <> προϊόν
+wheel <> τροχός
+medicine <> ιατρική
+help <> βοηθώ
+medium <> μεσαίος
+size <> μέγεθος
+aquarium <> ενυδρείο
+mine <> ορυχείο
+miner <> εργάτης
+opal <> οπάλιο
+worth <> αξίζω
+worthless <> άνευ αξίας
+day <> ημέρα
+midnight <> μεσάνυχτα
+popular <> δημοφιλής
+bicycle <> ποδήλατο
+break <> διάλειμμα
+centre <> κέντρο
+clean <> καθαρός
+activity <> δραστηριότητα
+actor <> ηθοποιός
+day off <> ρεπό
+harp <> άρπα
+identical <> πανομοιότυπος
+player <> παίκτης
+swimming <> κολύμβηση
+twins <> δίδυμα
+write <> γράφω
+explain <> εξηγώ
+hobby <> χόμπι
+impact <> επίδραση
+perfect <> τέλειος
+photography <> φωτογραφία
+shine <> λάμπω
+snow mobile <> όχημα χιονιού
+spend <> περνώ
+adrenaline <> αδρεναλίνη
+baseball <> μπέιζμπολ
+boxing <> μποξ
+cliff diving <> καταδύσεις από βράχο
+distance <> απόσταση
+exciting <> συναρπαστικός
+extreme sport <> ακραίο άθλημα
+fast <> γρήγορος
+highline <> ισορροπία σε τεντωμένο σκοινί
+lamb <> αρνί
+ice hockey <> χόκεϊ επί πάγου
+jump <> πηδώ
+landscape <> τοπίο
+mountain biker <> ορεινός ποδηλάτης
+onion <> κρεμμύδι
+paragliding <> αλεξίπτωτο πλαγιάς
+orange <> πορτοκάλι
+peaceful <> γαλήνιος
+pepper <> πιπεριά
+sailing <> ιστιοπλοΐα
+potato <> πατάτα
+prawn <> γαρίδα
+recipe <> συνταγή
+salt <> αλάτι
+satay <> σατάι
+seasoning <> καρύκευμα
+class <> κατηγορία
+atmosphere <> ατμόσφαιρα
+banana <> μπανάνα
+early <> νωρίς
+everyday <> καθημερινός
+fresh <> φρέσκος
+live <> ζωντανός
+lover <> λάτρης
+seafood <> θαλασσινά
+shopper <> αγοραστής
+upstairs <> επάνω όροφος
+corridor <> διάδρομος
+disease <> νόσος
+doorway <> πόρτα
+flood <> πλημμύρα
+future <> μέλλον
+grow <> φυτρώνω
+electronics <> ηλεκτρονικές συσκευές
+huge <> τεράστιος
+plant <> φυτό
+seed <> σπόρος
+store <> αποθηκεύω
+type <> τύπος
+variety <> ποικιλία
+vault <> θησαυροφυλάκιο
+sparkling <> ανθρακούχο
+starter <> ορεκτικό
+special <> ειδικό πιάτο
+dessert <> επιδόρπιο
+bill <> λογαριασμός
+priceless <> ανεκτίμητος
+silver <> ασήμι
+value <> αξία
+visitor <> επισκέπτης
+land <> προσγειώνομαι
+bank card <> τραπεζική κάρτα
+cash machine <> μηχάνημα ανάληψης
+win <> κερδίζω
+credit card <> πιστωτική κάρτα
+message <> μήνυμα
+neck <> λαιμός
+practical <> πρακτικός
+seashell <> όστρακο
+female <> θηλυκό
+borrow <> δανείζομαι
+charity <> φιλανθρωπικό ίδρυμα
+male <> αρσενικό
+collect <> συγκεντρώνω
+hospital <> νοσοκομείο
+lend <> δανείζω
+bracelet <> βραχιόλι
+crown <> στέμμα
+palace <> παλάτι
+region <> περιοχή
+route <> δρόμος
+statue <> άγαλμα
+terrible <> απαίσιος
+treasure <> θησαυρός
+volcano <> ηφαίστειο
+European <> Ευρωπαίος
+final <> τελικός
+ship <> πλοίο
+weather <> καιρός
+experiment <> πείραμα
+physician <> γιατρός
+physics <> Φυσική
+haircut <> κούρεμα
+lawyer <> δικηγόρος
+colourful <> πολύχρωμος
+permanent <> μόνιμος
+dance <> χορεύω
+shoulder <> ώμος
+cheek <> μάγουλο
+chin <> πιγούνι
+eyebrow <> φρύδι
+handsome <> όμορφος
+lip <> χείλος
+mask <> μάσκα
+photograph <> φωτογραφία
+ribbon <> κορδέλα
+string <> κορδόνι
+tall <> ψηλός
+ugly <> άσχημος
+clown <> κλόουν
+belt <> ζώνη
+client <> πελάτης
+clothing <> ρούχα
+line <> γραμμή
+magazine <> περιοδικό
+socks <> κάλτσες
+suit <> κουστούμι
+tie <> γραβάτα
+uniform <> στολή
+back <> πλάτη
+chest <> στέρνο
+connection <> σχέση
+criminal <> εγκληματίας
+customer <> πελάτης
+expert <> ειδικός
+sight <> θέα
+strange <> παράξενος
+view <> θέα
+afterwards <> κατόπιν
+animation <> κινούμενα σχέδια
+comedy <> κωμωδία
+horror film <> ταινία τρόμου
+romantic <> ρομαντικός
+stay <> μένω
+ticket <> εισιτήριο
+biologist <> βιολόγος
+edit <> επεξεργασία
+chemical <> χημική ουσία
+equipment <> εξοπλισμός
+expensive <> ακριβός
+heavy <> βαρύς
+the Internet <> το Διαδίκτυο
+plan <> σχεδιάζω
+visa <> βίζα
+wildlife <> άγρια ζωή
+virus <> ιός
+butterfly <> πεταλούδα
+disagree <> διαφωνώ
+field <> λιβάδι
+genius <> ιδιοφυΐα
+grass <> γρασίδι
+kangaroo <> καγκουρό
+leaf <> φύλλο
+print <> αντίτυπο
+podcast <> podcast
+print <> τυπώνω
+result <> αποτέλεσμα
+rock <> βράχος
+sea <> θάλασσα
+search engine <> μηχανή αναζήτησης
+survey <> έρευνα
+technology <> τεχνολογία
+travel agent <> ταξιδιωτικός πράκτορας
+exam <> διαγώνισμα
+learn <> μαθαίνω
+athlete <> αθλητής
+championship <> πρωτάθλημα
+memorise <> απομνημονεύω
+remember <> θυμάμαι
+repeat <> επαναλαμβάνω
+special <> ιδιαίτερος
+technique <> τεχνική
+atom <> άτομο
+comfortable <> άνετος
+electricity <> ηλεκτρισμός
+image <> εικόνα
+impossible <> αδύνατος
+invent <> εφευρίσκω
+invisible <> αόρατος
+ipod <> ipod
+manufacturer <> κατασκευαστής
+prototype <> πρωτότυπο
+runway <> διάδρομος
+προσγείωσης και suggestion <> πρόταση
+απογείωσης tour guide <> ξεναγός
+servant <> υπηρέτης
+sticky tape <> σελοτέιπ
+transportation <> μεταφορά
+climate <> κλίμα
+currency <> νόμισμα
+embassy <> πρεσβεία
+hitchhiking <> ταξίδι
+illegal <> παράνομος
+colleague <> συνάδελφος
+design <> σχέδιο
+urgent <> επείγων
+website <> διαδικτυακή
+cruise <> κρουαζιέρα
+decrease <> μειώνω
+environmental περιβαλλοντική deep <> βαθύς
+organisation <> οργάνωση
+excitement <> συναρπαστική
+εμπειρία freeze <> παγώνω
+government <> κυβέρνηση
+positive <> θετικός
+safari <> σαφάρι
+swimming pool <> πισίνα
+astronomer <> αστρονόμος
+brochure <> φυλλάδιο
+disadvantage <> μειονέκτημα
+interesting <> ενδιαφέρων
+rubbish <> σκουπίδια
+direction <> κατεύθυνση
+emotional <> συναισθηματικός
+pilgrim <> προσκυνητής
+pilgrimage <> προσκύνημα
+pray <> προσεύχομαι
+spiritual <> πνευματικός
+active <> ενεργός
+create <> δημιουργώ
+destroy <> καταστρέφω
+eruption <> έκρηξη
+equator <> ισημερινός
+lava <> λάβα
+conclusion <> συμπέρασμα
+predict <> προβλέπω
+rainfall <> βροχόπτωση
